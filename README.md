@@ -1,11 +1,8 @@
-# Liri-Node-App
-University of Utah - Trilogy BootCamp Homework #8
-
 ## Liri
 
 Liri is not as cool as Siri but it is a node.js command line application that takes in parameters and gives back data. The user must enter 'node liri.js' into the command line followed by a command and then a search parameter.  
 
-There are four possible Commands: 'concert-this', 'spotify-this-song', 'movie-this', or 'do-what-it-says'
+We have four possible Commands: 'concert-this', 'spotify-this-song', 'movie-this', or 'do-what-it-says'
 
 ## 'concert-this'
 
@@ -42,4 +39,3 @@ The 'do-what-it-says' command reads the random.txt file and executes the paramet
 
 All results are returned in the command line, but also into a separate text file named 'log.txt' as well.
 
-Technologies used: Javascript, Node.js, Moment.js, Bandsintown API, Spotify API, OMDb API
